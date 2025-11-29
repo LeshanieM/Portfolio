@@ -1,1 +1,1 @@
-Live Demo: https://portfolio-leshaniems-projects.vercel.app/
+Live Demo: https://inventrio-syqa.vercel.app/
